@@ -94,8 +94,8 @@ export default function HeroSection() {
                                     <ArrowRight className="size-4" />
                                 </Link>
 
-                                <h1 className="mt-10 text-balance text-4xl font-bold md:text-5xl xl:text-5xl">Production Ready Digital Marketing blocks</h1>
-                                <p className="mt-8">Error totam sit illum. Voluptas doloribus asperiores quaerat aperiam. Quidem harum omnis beatae ipsum soluta!</p>
+                                <h1 className="mt-10 text-balance text-4xl font-bold md:text-5xl xl:text-5xl">Redeniel B. Sauri</h1>
+                                <p className="mt-8">I am BSIT 2nd Year from AMA Computer College, Fairview. I love to to do hiking, listening to music, and love tinkering hardware components.</p>
 
                                 <div>
                                     <form
